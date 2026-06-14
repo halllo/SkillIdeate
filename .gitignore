@@ -7,3 +7,12 @@
 .squad/.cache/
 # Squad: SubSquad activation file (local to this machine)
 .squad-workstream
+
+# Node / build outputs
+node_modules/
+dist/
+
+# Environment files
+.env
+.env.*
+!.env.example

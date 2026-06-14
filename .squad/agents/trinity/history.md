@@ -8,3 +8,4 @@
 ## Learnings
 
 <!-- Append new learnings below. Each entry is something lasting about the project. -->
+- 2026-06-14: The primary product loop is a single-page React flow: collect a workflow description, call `POST /api/skills`, and show empty/loading/error/results states around generated candidates.

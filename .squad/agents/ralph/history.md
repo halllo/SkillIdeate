@@ -14,3 +14,4 @@ Agent Ralph initialized and ready for work.
 ## Learnings
 
 Initial setup complete.
+- 2026-06-14: SkillIdeate's current product contract is a minimal workflow-to-skill loop where the UI submits a rough workflow and the API returns draft skill candidates as structured JSON for further refinement.
